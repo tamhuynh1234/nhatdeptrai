@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tắt nứng</title>
+	<title>Hello</title>
 </head>
 <body>
-<?php echo "Hello I'm Tâm nứng"; ?>
+<?php echo "Hello I'm Tâm"; ?>
 </body>
 </html>
